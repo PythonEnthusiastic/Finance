@@ -1,0 +1,11 @@
+#header {
+	background-color: #ffb35c;
+	display: inline-block;
+	width: 100%;
+	padding: 10px;
+}
+#header p {
+	display: inline;
+	padding-left: 30px;
+	color: white;
+}
